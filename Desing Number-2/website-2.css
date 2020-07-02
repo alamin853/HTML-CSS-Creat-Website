@@ -1,0 +1,103 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+.head{
+    width: 80%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: magenta;
+}
+.menu{
+    width: 60%;
+    float: left;
+}
+.menu li{
+    display: inline-block;
+    padding-top: 4px;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+}
+.menu li a:hover{
+    color: white;
+}
+.head .input{
+    width: 30%;
+    float: right;
+    margin-right: 10px;
+    padding-top: 23px;
+}
+.head .input input{
+    padding: 7px;
+}
+.head .input-2{
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+.head .input-1{
+    width: 200px;
+}
+.heading{
+    width: 80%;
+    margin: 0 auto;
+}
+.heading .article{
+    width: 70%;
+    height: 400px;
+    background-color: white;
+    display: inline-block;
+    padding: 10.50px;
+}
+
+.heading h1{
+    text-align: center;
+}
+.heading .related{
+    width: 26%;
+    height: 400px;
+    background-color: magenta;
+    float: right;
+    padding: 11px;
+}
+.heading .related li{
+    text-align: justify;
+    color: black;
+    padding-top: 20px;
+}
+.heading .related li a{
+    color: black;
+}
+.heading .related li a:hover{
+    color: white;
+}
+.footer{
+    height: 50px;
+    margin: 0 auto;
+    background-color: white;
+}
+.footer p{
+    text-align: center;
+    padding: 17px;
+}
+
+
+
+
+
+
+
+
+

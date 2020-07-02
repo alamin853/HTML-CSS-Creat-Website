@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    height: 400px;
+    background-color: black;
+    background-image: url(../Images/dark-city.jpg);
+    background-size: cover;
+}
+.top{
+    width: 80%;
+    margin: 0 auto;
+}
+.top-left{
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+    color: lightgray;
+    font-size: 20px;
+}
+
+.top-right{
+    width: 60%;
+    float: right;
+    margin-top: 20px;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+a{
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: lightgray;
+    font-size: 25px;
+    padding: 2px;
+    float: left;
+    width: 90px;
+}
+a:hover{
+    color: black;
+    border-radius: 10px;
+}
+.bottom{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 20px;
+    transform: translate(300px, 250px);
+    color: #03d9f5;
+}
+.paragraph{
+    transform: translate(-23px);
+}
+section{
+    width: 80%;
+    height: 265px;
+    margin: 0 auto;
+    background-color: #00bcd4;
+}
+
+.services .box{
+    width: 15%;
+    display: inline-block;
+    margin-left: 70px;
+    text-align: justify;
+    padding-top: 10px;
+}
+.services h1{
+    margin-left: 70px;
+    padding-top: 20px;
+}
+.services p{
+    padding-top: 5px;
+}
+.section-1{
+    width: 80%;
+    height: 265px;
+    margin: 0 auto;
+    background-color: white;
+}
+.recent{
+    padding-left: 70px;
+    margin-top: 20px;
+}
+.image img{
+    width: 215px;
+    height: 200px;
+    float: left;
+    border: 2px solid white;
+    padding-top: 5px;
+}
+.section-2{
+    width: 80%;
+    height: 150px;
+    margin: 0 auto;
+    background-color: gray;
+}
+.section-2 h5{
+    width: 60%;
+    margin: 0 auto;
+    color: black;
+    text-align: center;
+    padding-top: 40px;
+}
+.section-2 h4{
+    width: 60%;
+    margin: 0 auto;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
